@@ -1,6 +1,7 @@
-Here's what loki must can
+Here's what Loki must can do in 1 month
 - Git
 - C++
 - JavaScript
 - Python
 - English language
+- Create a simple web with full JavaScript
