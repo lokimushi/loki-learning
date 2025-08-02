@@ -1,0 +1,6 @@
+Here's what loki must can
+- Git
+- C++
+- JavaScript
+- Python
+- English language
